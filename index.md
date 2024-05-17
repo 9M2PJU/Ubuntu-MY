@@ -39,7 +39,6 @@ We have a variety of resources available to help you with Ubuntu:
 
 Have questions or want to learn more about Ubuntu MY LoCo? Reach out to us:
 
-- **Email**: faizul@ubuntu.com
 - **IRC**: [#ubuntu-my on libera.chat](https://web.libera.chat/#ubuntu-my)
 - **Telegram**: [Ubuntu MY Telegram Group](https://t.me/ubuntumy)
 - **Facebook**: [Ubuntu MY Facebook Group](https://www.facebook.com/groups/ubuntumy)
