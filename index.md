@@ -23,7 +23,7 @@ There are many ways you can get involved with Ubuntu MY LoCo:
 
 We regularly organize events to bring the community together. Check out our upcoming events:
 
-- **Monthly Meetups**: Join us every first Saturday of the month for discussions, presentations, and networking.
+- **Monthly Meetups**: Join us every first Saturday of the month for online discussions, presentations, and networking.
 - **Workshops**: Hands-on sessions to help you get the most out of Ubuntu and other open-source software.
 - **Release Parties**: Celebrate the latest Ubuntu releases with us!
 
@@ -39,7 +39,7 @@ We have a variety of resources available to help you with Ubuntu:
 
 Have questions or want to learn more about Ubuntu MY LoCo? Reach out to us:
 
-- **Email**: contact@ubuntumy.org
+- **Email**: faizul@ubuntu.com
 - **IRC**: [#ubuntu-my on libera.chat](https://web.libera.chat/#ubuntu-my)
 - **Telegram**: [Ubuntu MY Telegram Group](https://t.me/ubuntumy)
 - **Facebook**: [Ubuntu MY Facebook Group](https://www.facebook.com/groups/ubuntumy)
