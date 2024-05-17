@@ -15,7 +15,7 @@ Ubuntu MY LoCo is a community of Ubuntu users in Malaysia. Our mission is to:
 
 There are many ways you can get involved with Ubuntu MY LoCo:
 
-- **Join Our Community**: Connect with us on [IRC](https://web.libera.chat/#ubuntu-my), [Telegram](https://t.me/ubuntumy), and [Facebook](https://www.facebook.com/groups/ubuntumy).
+- **Join Our Community**: Connect with us on [IRC](https://web.libera.chat/#ubuntu-my), [Telegram](https://t.me/ubuntumalaysia), and [Facebook](https://www.facebook.com/groups/ubuntumy).
 - **Attend Events**: Participate in our regular meetups, workshops, and Ubuntu release parties.
 - **Contribute**: Share your skills by helping with community projects, translating documentation, or providing support to other users.
 
@@ -32,7 +32,7 @@ We regularly organize events to bring the community together. Check out our upco
 We have a variety of resources available to help you with Ubuntu:
 
 - **Documentation**: Comprehensive guides and tutorials to help you get started with Ubuntu.
-- **Support**: Get help from our community through our [IRC channel](https://web.libera.chat/#ubuntu-my), [Telegram group](https://t.me/ubuntumy), or [Facebook group](https://www.facebook.com/groups/ubuntumy).
+- **Support**: Get help from our community through our [IRC channel](https://web.libera.chat/#ubuntu-my), [Telegram group](https://t.me/ubuntumalaysia), or [Facebook group](https://www.facebook.com/groups/ubuntumy).
 - **Software**: Recommendations for the best open-source software to use with Ubuntu.
 
 ## Contact Us
@@ -40,7 +40,7 @@ We have a variety of resources available to help you with Ubuntu:
 Have questions or want to learn more about Ubuntu MY LoCo? Reach out to us:
 
 - **IRC**: [#ubuntu-my on libera.chat](https://web.libera.chat/#ubuntu-my)
-- **Telegram**: [Ubuntu MY Telegram Group](https://t.me/ubuntumy)
+- **Telegram**: [Ubuntu MY Telegram Group](https://t.me/ubuntumalaysia)
 - **Facebook**: [Ubuntu MY Facebook Group](https://www.facebook.com/groups/ubuntumy)
 
 We look forward to welcoming you to our community!
